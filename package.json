@@ -1,0 +1,7 @@
+{
+    "name": "inv-root",
+    "version": "1.0.0",
+    "scripts": {
+        "build": "cd smart-inv-frontend && npm install && npm run build"
+    }
+}
